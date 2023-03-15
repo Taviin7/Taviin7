@@ -1,7 +1,7 @@
 Student in systems analysis and development.
  <br>
 <div  align="center"> 
- <title>Student in systems analysis and development.<title>
+ Student in systems analysis and development.
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
