@@ -1,6 +1,6 @@
 <div  align="center"> 
  
- #Abouth me:
+ # Abouth me:
  Student in systems analysis and development.
  
   <div style="display: inline_block"><br>
