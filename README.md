@@ -1,6 +1,6 @@
 <div  align="center"> 
  
- # Abouth me:
+ # Otavio R. Lago
  Student in systems analysis and development.
  
   <div style="display: inline_block"><br>
