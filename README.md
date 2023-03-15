@@ -24,17 +24,17 @@ Student in systems analysis and development.
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+      https://raw.githubusercontent.com/Taviin7/snk/output/github-contribution-grid-snake-dark.svg
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+      https://raw.githubusercontent.com/Taviin7/snk/output/github-contribution-grid-snake.svg
     "
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Taviin7/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
