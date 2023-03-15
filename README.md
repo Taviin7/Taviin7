@@ -1,6 +1,9 @@
 # About Me:
 
 Student in systems analysis and development.
+ <a href="https://github.com/Taviin7">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Taviin7&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taviin7&layout=compact&langs_count=7&theme=react" />
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
