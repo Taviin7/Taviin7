@@ -20,15 +20,6 @@ Student in systems analysis and development.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taviin7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/Taviin7/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Taviin7/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+</div>
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+</div>
