@@ -23,9 +23,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taviin7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  </div><br>
  
-<div>
- <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Taviin7/count.svg" /></p>
- </div>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Taviin7/count.svg" /></p>
  
 <picture>
   <source
@@ -34,12 +32,7 @@
       https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
     "
   />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
-    "
-  />
+ 
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
