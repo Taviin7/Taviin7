@@ -11,7 +11,7 @@ Student in systems analysis and development.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Taviin7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Taviin7">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Taviin7&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taviin7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
