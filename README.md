@@ -20,6 +20,6 @@
 # 📊 GitHub Stats:
 <div>
 <a href="https://github.com/Taviin7">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taviin7&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taviin7&layout=compact&langs_count=7&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taviin7&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&include_all_commits=true&count_private=true"/>
 </div>
