@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">Otavio Lago,<br><br>Desenvolvedor/estudante, apaixonado por criar soluções completas — do backend ao frontend.<br><br>Sempre aprendendo, sempre evoluindo.</p>
+<h4 align="left">Otavio Lago,<br><br>Desenvolvedor/estudante, apaixonado por criar soluções completas — do backend ao frontend.<br><br>Sempre aprendendo, sempre evoluindo.</h4>
 
 ###
 
-<p align="left">💻 Tech Stack:</p>
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">📊 GitHub Stats:</p>
+<h2 align="left">📊 GitHub Stats:</h2>
 
 ###
 
