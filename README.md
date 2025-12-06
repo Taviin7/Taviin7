@@ -1,4 +1,4 @@
-<h2 align="left">Hello Word!</h2>
+<h1 align="left">Hello Word!</h1>
 
 ###
 
@@ -8,11 +8,11 @@
 
 ###
 
-<h4 align="left">Otavio Lago,<br><br>Desenvolvedor/estudante, apaixonado por criar soluções completas — do backend ao frontend.<br><br>Sempre aprendendo, sempre evoluindo.</h4>
+<p align="left">Otavio Lago,<br><br>Desenvolvedor/estudante, apaixonado por criar soluções completas — do backend ao frontend.<br><br>Sempre aprendendo, sempre evoluindo.</p>
 
 ###
 
-<h4 align="left">💻 Tech Stack:</h4>
+<p align="left">💻 Tech Stack:</p>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h4 align="left">📊 GitHub Stats:</h4>
+<p align="left">📊 GitHub Stats:</p>
 
 ###
 
